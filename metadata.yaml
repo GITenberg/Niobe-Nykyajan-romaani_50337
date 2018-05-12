@@ -1,4 +1,8 @@
 _repo: Niobe-Nykyajan-romaani_50337
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lie, Jonas
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5095
     wikipedia: http://en.wikipedia.org/wiki/Jonas_Lie
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50337#Niobe-Nykyajan-romaani
 gutenberg_issued: '2015-10-29'
 gutenberg_type: Text
 identifiers:
